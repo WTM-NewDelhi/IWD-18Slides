@@ -2,7 +2,7 @@
 
 We are proud to be hosting the 2018 International Women's Day Celebration, where we will celebrate the importance and necessity of women in techology.
 
-**Event Link - ** [here](https://www.meetup.com/GDGNewDelhi/events/248254135/)
+**Event Link -** [here](https://www.meetup.com/GDGNewDelhi/events/248254135/)
 
 **This repository contains all the slides from the event.**
 
